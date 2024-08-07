@@ -33,7 +33,7 @@ Distinguished Software EngineerDistinguished Software Engineer
 
 Google · Full-time
 
-Jun 2007 - Jun 2024 · 17 yrs 1 moJun 2007 to Jun 2024 · 17 yrs 1 mo
+Jun 2007 - Jun 2024 · 17 yrs 1 mo
 
 Google Cloud Application Ecosystem and Developer Experience (Uber Tech Lead, 2023-2024)
 Steered Google Cloud API standards (aip.dev) and Infrastructure as Code efforts. Guided SDK, CLI, and console autogeneration and evolution.
