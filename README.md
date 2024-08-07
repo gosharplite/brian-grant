@@ -10,6 +10,7 @@ Steered Google Cloud API standards (aip.dev) and Infrastructure as Code efforts.
 
 Configuration & Policy Automation (Uber Tech Lead, 2020-2022):
 Lead declarative configuration projects:
+
 https://kpt.dev/guides/rationale
 
 https://github.com/kubernetes-sigs/kustomize/
@@ -23,6 +24,7 @@ Kubernetes (original architect and API design lead of Kubernetes, 2013-2019)
 Defined the project's scope, architecture, and API model, and shaped the system design based on my experience from Omega and Borg. Declarative configuration innovator: creator of "apply", kustomize, kpt, and porch. Coined "Kubernetes Resource Model" and "Configuration as Data". Founding member of the Kubernetes Steering Committee. Founder of Kubernetes SIG Architecture. Inaugural member of the CNCF Technical Oversight Committee. Wrote the definition of "Cloud Native".
 
 Background of the Kubernetes project is described here:
+
 https://medium.com/@bgrant0607/the-technical-history-of-kubernetes-2fe1988b522a
 
 https://medium.com/@bgrant0607/kubernetes-the-road-to-1-0-525a9420fdf0
@@ -34,9 +36,11 @@ http://queue.acm.org/detail.cfm?id=2898444
 https://kubernetespodcast.com/episode/043-borg-omega-kubernetes-beyond/
 
 Omega (founder, tech lead 2011-2012): 
+
 http://research.google.com/pubs/pub41684.html
 
 Borg (tech lead, 2009-2010): 
+
 http://www.wired.com/2013/03/google-borg-twitter-mesos/all/ http://research.google.com/pubs/pub43438.html
 
 Multi-core initiative (tech lead manager and intergrouplet founder, 2007-2008):
