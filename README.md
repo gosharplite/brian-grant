@@ -7,12 +7,19 @@ Original lead architect of Kubernetes and creator of its declarative configurati
 More than 30 years of experience with high-performance and distributed computing. Inventor on 15+ patents. Chief Architect and 3rd engineer at a startup that implemented high-performance computing on GPUs. Prior work on data-parallel computing, multi-threading, message-passing-based supercomputing, dynamic compilation, link-time optimization, profile-guided optimization, runtime partial evaluation, and dynamic frequency/voltage scaling. Ph.D. in Computer Science. 
 
 Shifts:
+
 Shared memory -> Distributed memory
+
 Operation scheduling in hardware -> scheduling in software
+
 CPUs -> GPUs
+
 Single-threaded -> Multi-threaded
+
 Monolith -> Hub and spoke
+
 VMs -> Containers
+
 Infrastructure as Code -> ???
 
 https://github.com/bgrant0607
