@@ -1,6 +1,27 @@
 # brian-grant
 [linkedin](https://www.linkedin.com/in/bgrant0607/)
 
+## About
+Original lead architect of Kubernetes and creator of its declarative configuration model: KRM, kubectl apply, kustomize. Founding member of the Kubernetes Steering Committee. Inaugural member of the CNCF Technical Oversight Committee. Former tech lead of Google's internal container platform, Borg. Founder of the Omega R&D project.
+
+More than 30 years of experience with high-performance and distributed computing. Inventor on 15+ patents. Chief Architect and 3rd engineer at a startup that implemented high-performance computing on GPUs. Prior work on data-parallel computing, multi-threading, message-passing-based supercomputing, dynamic compilation, link-time optimization, profile-guided optimization, runtime partial evaluation, and dynamic frequency/voltage scaling. Ph.D. in Computer Science. 
+
+Shifts:
+Shared memory -> Distributed memory
+Operation scheduling in hardware -> scheduling in software
+CPUs -> GPUs
+Single-threaded -> Multi-threaded
+Monolith -> Hub and spoke
+VMs -> Containers
+Infrastructure as Code -> ???
+
+https://github.com/bgrant0607
+
+https://twitter.com/bgrant0607
+
+https://medium.com/@bgrant0607
+
+## Experience
 Distinguished Software EngineerDistinguished Software Engineer
 Google · Full-timeGoogle · Full-time
 Jun 2007 - Jun 2024 · 17 yrs 1 moJun 2007 to Jun 2024 · 17 yrs 1 mo
